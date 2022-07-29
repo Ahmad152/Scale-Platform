@@ -25,6 +25,6 @@ Smart Scale helps visually impaired workers with their job.
 <a href="https://github.com/mobizt/Firebase-ESP-Client">ESP32 – FireStore (examples->firestore)</a></br>
 
 
-<a href="https://learngitbranching.js.org/">learn Git</a></br>
+<a href="https://learngitbranching.js.org/">Learn Git</a></br>
 
 
