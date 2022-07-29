@@ -8,6 +8,9 @@ Smart Scale helps visually impaired workers with their job.
 
 <b>Useful links</b>
 
+nstalling the ESP32 Board in Arduino IDE (Windows, Mac OS X, Linux)
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+
 RFID - ESP32:
 https://www.aranacorp.com/en/using-an-rfid-module-with-an-esp32/
 
