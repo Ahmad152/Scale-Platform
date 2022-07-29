@@ -19,10 +19,10 @@ Smart Scale helps visually impaired workers with their job.
 <a href="https://static1.squarespace.com/static/584d41b3f5e2310b396cd953/t/5c7c2f29104c7b336a2f8380/1551642412037/Serial+MP3+Player+A+v1.0+Manual.pdf">serial mp3 player manual</a></br>
 
 
-<a href="https://randomnerdtutorials.com/esp32-date-time-ntp-client-server-arduino/">ESP32 get date and time:</a></br>
+<a href="https://randomnerdtutorials.com/esp32-date-time-ntp-client-server-arduino/">ESP32 get date and time</a></br>
 
 
-<a href="https://github.com/mobizt/Firebase-ESP-Client">ESP32 – FireStore: (examples->firestore)</a></br>
+<a href="https://github.com/mobizt/Firebase-ESP-Client">ESP32 – FireStore (examples->firestore)</a></br>
 
 
 <a href="https://learngitbranching.js.org/">learn Git</a></br>
