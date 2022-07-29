@@ -7,14 +7,14 @@ RFID - ESP32:
 https://www.aranacorp.com/en/using-an-rfid-module-with-an-esp32/
 
 MP3 serial player – open smart:
-Serial+MP3+Player+A+v1.0+Manual.pdf (squarespace.com)
-How to use the Serial MP3 Player (UART) with Speaker by OPEN-SMART with Arduino (theamplituhedron.com)
+https://www.theamplituhedron.com/articles/How-to-use-the-Serial-MP3-Player-UART-with-Speaker-by-OPEN-SMART-with-Arduino/
+https://static1.squarespace.com/static/584d41b3f5e2310b396cd953/t/5c7c2f29104c7b336a2f8380/1551642412037/Serial+MP3+Player+A+v1.0+Manual.pdf
 
 ESP32 get date and time:
-ESP32 NTP Client-Server: Get Date and Time (Arduino IDE) | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-date-time-ntp-client-server-arduino/
 
 ESP32 – FireStore: (examples->firestore)
-mobizt/Firebase-ESP-Client: 🔥Firebase Arduino Client Library for ESP8266 and ESP32. The complete, fast, secured and reliable Firebase Arduino client library that supports RTDB, Cloud Firestore, Firebase and Google Cloud Storage, Cloud Messaging and Cloud Functions for Firebase. (github.com)
+https://github.com/mobizt/Firebase-ESP-Client
 
 learn Git:
-Learn Git Branching
+https://learngitbranching.js.org/
