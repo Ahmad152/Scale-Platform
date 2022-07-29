@@ -3,6 +3,7 @@ Smart Scale helps visually impaired workers with their job.
 
 
 Useful links
+
 RFID - ESP32:
 https://www.aranacorp.com/en/using-an-rfid-module-with-an-esp32/
 
