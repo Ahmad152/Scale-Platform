@@ -1,7 +1,7 @@
 # Scale-Platform
 Smart Scale helps visually impaired workers with their job.
 
-ESP32 DEVKIT V1 DOIT board:
+<b><u>ESP32 DEVKIT V1 DOIT board:</u></b>
 
 <img src="esp32 diagram.jpeg" width="600px"/>
 
