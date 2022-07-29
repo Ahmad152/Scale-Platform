@@ -6,7 +6,7 @@ ESP32 DEVKIT V1 DOIT board:
 <img src="esp32 diagram.jpeg" width="600px"/>
 
 
-Useful links
+<b>Useful links</b>
 
 RFID - ESP32:
 https://www.aranacorp.com/en/using-an-rfid-module-with-an-esp32/
