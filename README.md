@@ -3,6 +3,8 @@ Smart Scale helps visually impaired workers with their job.
 
 ESP32 DEVKIT V1 DOIT board:
 
+<img src="esp32 diagram.jpeg" width="600px"/>
+
 ![diagram](https://user-images.githubusercontent.com/94194077/181825174-7281f436-40af-4be8-bb11-b7c91add4e72.jpeg)
 
 
