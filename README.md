@@ -1,6 +1,8 @@
 # Scale-Platform
 Smart Scale helps visually impaired workers with their job.
 
+This repository is part of the <a href="https://github.com/Ahmad152/AidScale-Project">AidScale project</a>, specifically this repository is dedicated to the Hardware of the project.
+
 <b>ESP32 DEVKIT V1 DOIT board:</b> 
 
 <img src="esp32 diagram.jpeg" width="600px"/>
