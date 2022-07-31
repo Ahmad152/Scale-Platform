@@ -413,6 +413,7 @@ void sayNum(int num,String language,bool justNum ){
   } else if(!justNum){
     sayWord(REMOVE ,language);
     num*=-1;
+    num++;
   }
   if(language == "Arabic") {play_indx_song[3]=1; sayArabic(num);}
   if(language == "Hebrew") {play_indx_song[3]=2; sayHebrew(num);}
